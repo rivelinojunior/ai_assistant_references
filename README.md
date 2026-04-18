@@ -18,6 +18,10 @@
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp)
 
 # Digesting
+
+- [Multica AI - Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [Addyosmani Skills](https://github.com/addyosmani/agent-skills)
+
 ## Design
 - [Design Taste Skill](https://github.com/leonxlnx/taste-skill)
   - redesign-existing-projects
@@ -45,6 +49,10 @@
   - write-a-prd
 - [Awesome Copilot Skills](https://github.com/github/awesome-copilot/tree/main/skills)
   - prd
+- [Addyosmani Skills](https://github.com/addyosmani/agent-skills)
+  - idea-refine
+  - spec-driven-development
+  - planning-and-task-breakdown
 
 ## Documentation
 - [Awesome Copilot Skills - Documentation Writer](https://github.com/github/awesome-copilot/blob/main/skills/documentation-writer/SKILL.md)
